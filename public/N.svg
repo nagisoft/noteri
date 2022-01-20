@@ -1,0 +1,6 @@
+<svg width="81.19999999999999px" height="122px" xmlns="http://www.w3.org/2000/svg" viewBox="209.4 14 81.19999999999999 122" style="background: rgba(0, 0, 0, 0);" preserveAspectRatio="xMidYMid"><defs><filter id="editing-hole" x="-100%" y="-100%" width="300%" height="300%"><feFlood flood-color="#000" result="black"></feFlood><feMorphology operator="dilate" radius="2" in="SourceGraphic" result="erode"></feMorphology><feGaussianBlur in="erode" stdDeviation="4" result="blur"></feGaussianBlur><feOffset in="blur" dx="2" dy="2" result="offset"></feOffset><feComposite operator="atop" in="offset" in2="black" result="merge"></feComposite><feComposite operator="in" in="merge" in2="SourceGraphic" result="inner-shadow"></feComposite></filter></defs><g filter="url(#editing-hole)"><g transform="translate(227.4400151371956, 96.1200008392334)"><path d="M7.68 0L0.64 0L8.32-42.24L22.08-42.24L32.06-13.18L37.38-42.24L44.48-42.18L36.67 0L22.02 0L12.80-27.97L7.68 0Z" fill="#ccc"></path></g></g><style>text {
+  font-size: 64px;
+  font-family: Arial Black;
+  dominant-baseline: central;
+  text-anchor: middle;
+}</style></svg>
