@@ -2,7 +2,7 @@
 
 Noteri is a Note Taking App , where you can Add , Delete and Search your notes saved in localStorage and built using React and Material Design 
 
-- [Demo Website Notero](weatherrio.netlify.app)
+- [Demo Website Notero](https://noteri.netlify.app/)
 
 ## FEATURES
 
